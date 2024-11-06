@@ -20,3 +20,4 @@ let examplefuntion=function(){
     console.log(2>1);
 }
 console.log(obj)
+

@@ -1,0 +1,7 @@
+//stack memory :-stack play push and pop operation in memory
+let name0="amrinder"
+let name1=name0
+name1="singh"
+console.log(name1)
+console.log(name0)
+//heap memory :- heap refer to dynamic memory allocation 
